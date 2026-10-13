@@ -170,12 +170,12 @@ const fatemeh = {
 
 **Education:** B.Sc. Computer Engineering, Science and Research University, Tehran (2022 – 2026); audited advanced AI and machine-learning courses at Sharif University of Technology.
 
-## 🌿 GitHub stats
+## 📈 By the numbers
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ftharir&show_icons=true&hide_border=false&bg_color=443025&title_color=EC9C9D&text_color=F2CFCA&icon_color=AA7F66&border_color=7F5836&ring_color=EC9C9D&count_private=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftharir&layout=compact&bg_color=443025&title_color=EC9C9D&text_color=F2CFCA&border_color=7F5836&langs_count=6&hide=jupyter%20notebook,html" alt="Top languages">
+  <img src="assets/numbers.svg" width="100%" alt="8 featured projects, 435 hand-annotated frames, mAP 0.995, 99.1% exact match, macro-F1 0.80">
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ftharir&background=443025&ring=EC9C9D&fire=EC9C9D&currStreakNum=F2CFCA&sideNums=F2CFCA&currStreakLabel=F2CFCA&sideLabels=AA7F66&dates=AA7F66&stroke=7F5836&border=7F5836" alt="GitHub streak">
 </p>
