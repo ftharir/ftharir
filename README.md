@@ -42,13 +42,9 @@ const fatemeh = {
 ```
 
 </td>
-<td width="42%" valign="middle">
+<td width="42%" valign="middle" align="center">
 
-I like projects that go **all the way**: from the raw data and its problems, through a model or a pipeline, to something a person can use.
-
-I care about **honest numbers**. When I found data leakage in my own first version of a project, I fixed it and reported the lower score; you can read that story in the [pharmacogenomics data analysis](https://github.com/ftharir/pharmacogenomics-ml-data-analysis).
-
-> *Clean data → honest evaluation → something people can use* 🌸
+<img src="assets/menu.svg" width="100%" alt="Today's menu: data analysis, computer vision, LLMs and speech, back end, research">
 
 </td>
 </tr>
