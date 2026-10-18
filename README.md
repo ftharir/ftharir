@@ -194,7 +194,7 @@ const fatemeh = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ftharir&background=443025&ring=EC9C9D&fire=EC9C9D&currStreakNum=F2CFCA&sideNums=F2CFCA&currStreakLabel=F2CFCA&sideLabels=AA7F66&dates=AA7F66&stroke=7F5836&border=7F5836" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=ftharir&background=443025&ring=EC9C9D&fire=EC9C9D&currStreakNum=F2CFCA&sideNums=F2CFCA&currStreakLabel=F2CFCA&sideLabels=AA7F66&dates=AA7F66&stroke=7F5836&border=7F5836&v=2" alt="GitHub streak">
 </p>
 
 <p align="center"><img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"></p>
