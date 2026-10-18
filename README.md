@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:fatemeh.harirforoush04@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/fatemeh-harirforoush-01a15927b/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22" alt="LinkedIn"></a>
-  <a href="https://github.com/ftharir?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="Repositories"></a>
+  <a href="mailto:fatemeh.harirforoush04@gmail.com"><img src="assets/badge_email.svg" alt="Email" height="44"></a>
+  <a href="https://www.linkedin.com/in/fatemeh-harirforoush-01a15927b/"><img src="assets/badge_linkedin.svg" alt="LinkedIn" height="44"></a>
+  <a href="https://github.com/ftharir?tab=repositories"><img src="assets/badge_github.svg" alt="Repositories" height="44"></a>
 </p>
 
 ## `~/about`
