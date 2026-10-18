@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://ftharir.github.io"><img src="assets/badge_site.svg" alt="Website" height="44"></a>
   <a href="mailto:fatemeh.harirforoush04@gmail.com"><img src="assets/badge_email.svg" alt="Email" height="44"></a>
   <a href="https://www.linkedin.com/in/fatemeh-harirforoush-01a15927b/"><img src="assets/badge_linkedin.svg" alt="LinkedIn" height="44"></a>
   <a href="https://github.com/ftharir?tab=repositories"><img src="assets/badge_github.svg" alt="Repositories" height="44"></a>
