@@ -55,7 +55,7 @@ const fatemeh = {
 | 📊 Data analysis & ML | 👁️ Computer vision | 🗣️ Backend, LLMs & speech |
 |---|---|---|
 | Exploratory data analysis, cleaning and validation of messy data | Object detection and tracking (YOLO), medical image classification | Persian speech-to-text with Faster Whisper |
-| Excel to Power BI pipelines with pandas | Hand-annotated datasets with LabelMe | FastAPI, PostgreSQL, Redis and Docker back ends |
+| Excel to Power BI pipelines with pandas; molecular data with RDKit | Hand-annotated datasets with LabelMe | FastAPI, PostgreSQL, Redis and Docker back ends |
 | Honest model evaluation, leakage checks, tests | Explainable AI (Grad-CAM) | Telegram and Bale bots, RAG-ready knowledge bases |
 
 ## 🧁 Tech stack
@@ -71,6 +71,7 @@ const fatemeh = {
   <img src="https://img.shields.io/badge/YOLO-7F5836?style=for-the-badge&logo=ultralytics&logoColor=F2CFCA" alt="YOLO">
   <img src="https://img.shields.io/badge/Hugging%20Face-443025?style=for-the-badge&logo=huggingface&logoColor=EC9C9D" alt="Hugging Face">
   <img src="https://img.shields.io/badge/Jupyter-7F5836?style=for-the-badge&logo=jupyter&logoColor=F2CFCA" alt="Jupyter">
+  <img src="https://img.shields.io/badge/RDKit-443025?style=for-the-badge&logoColor=EC9C9D" alt="RDKit">
   <br>
   <img src="https://img.shields.io/badge/FastAPI-443025?style=for-the-badge&logo=fastapi&logoColor=EC9C9D" alt="FastAPI">
   <img src="https://img.shields.io/badge/PostgreSQL-7F5836?style=for-the-badge&logo=postgresql&logoColor=F2CFCA" alt="PostgreSQL">
@@ -129,6 +130,16 @@ const fatemeh = {
 <sub>Async Telegram service platform: FastAPI, PostgreSQL, Redis, wallet and orders</sub>
 </td>
 </tr>
+<tr>
+<td align="center">
+<a href="https://github.com/ftharir/moleculenet-3d-structure-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftharir&repo=moleculenet-3d-structure-study&bg_color=443025&title_color=EC9C9D&text_color=F2CFCA&icon_color=AA7F66&border_color=7F5836" alt="moleculenet-3d-structure-study"></a><br>
+<sub>RDKit: three kinds of 3D structure for BACE, BBBP and ClinTox · effect on property prediction</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ftharir/moleculenet-3d-structure-study/main/docs/images/example_three_structures.png" height="200" alt="One molecule as approximate, optimised and flat structure"><br>
+<sub>One molecule: approximate, UFF-optimised and flat (z = 0) structure</sub>
+</td>
+</tr>
 </table>
 
 ### A closer look
@@ -173,7 +184,7 @@ const fatemeh = {
 ## 📈 By the numbers
 
 <p align="center">
-  <img src="assets/numbers.svg" width="100%" alt="8 featured projects, 435 hand-annotated frames, mAP 0.995, 99.1% exact match, macro-F1 0.80">
+  <img src="assets/numbers.svg" width="100%" alt="9 featured projects, 435 hand-annotated frames, mAP 0.995, 99.1% exact match, macro-F1 0.80">
 </p>
 
 <p align="center">
