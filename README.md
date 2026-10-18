@@ -131,13 +131,9 @@ const fatemeh = {
 </td>
 </tr>
 <tr>
-<td align="center">
+<td colspan="2" align="center">
 <a href="https://github.com/ftharir/moleculenet-3d-structure-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftharir&repo=moleculenet-3d-structure-study&bg_color=443025&title_color=EC9C9D&text_color=F2CFCA&icon_color=AA7F66&border_color=7F5836" alt="moleculenet-3d-structure-study"></a><br>
 <sub>RDKit: three kinds of 3D structure for BACE, BBBP and ClinTox · effect on property prediction</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/ftharir/moleculenet-3d-structure-study/main/docs/images/example_three_structures.png" height="200" alt="One molecule as approximate, optimised and flat structure"><br>
-<sub>One molecule: approximate, UFF-optimised and flat (z = 0) structure</sub>
 </td>
 </tr>
 </table>
@@ -163,6 +159,16 @@ const fatemeh = {
 <td align="center">
 <img src="https://raw.githubusercontent.com/ftharir/pharmacogenomics-ml-data-analysis/main/reports/figures/08_effect_kind_by_gene_and_drug.png" height="260" alt="Effect kind by gene and drug"><br>
 <sub>Pharmacogenomics data analysis: effect of genes and drugs</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ftharir/moleculenet-3d-structure-study/main/docs/images/example_three_structures.png" height="260" alt="One molecule as approximate, optimised and flat structure"><br>
+<sub>Molecular data: one molecule in three structure types</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ftharir/moleculenet-3d-structure-study/main/docs/images/model_comparison_roc_auc.png" height="260" alt="ROC-AUC by structure type"><br>
+<sub>ROC-AUC for each structure type and split</sub>
 </td>
 </tr>
 </table>
