@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="168" viewBox="0 0 440 168" role="img" aria-label="More repositories">
+<rect x="1" y="1" width="438" height="166" rx="12" fill="#161b22" stroke="#30363d" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="26" y="62" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#3fb950">$ ls ~/repos | wc -l</text>
+<text x="26" y="92" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="26" font-weight="700" fill="#e6edf3">more on GitHub</text>
+<text x="26" y="124" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="14" fill="#58a6ff">github.com/ftharir?tab=repositories  →</text>
+<rect x="339" y="108" width="9" height="19" fill="#3fb950"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1.1s" repeatCount="indefinite"/></rect>
+</svg>
