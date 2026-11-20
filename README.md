@@ -18,7 +18,7 @@ class Fatemeh:
     location  = "Tehran, Iran"
 
     focus     = ["data analysis & data pipelines", "computer vision", "LLMs, Transformers & speech"]
-    building  = "an AI-powered, multimodal data-labeling platform"
+    building  = "AI products as a freelancer on Parscoders"
     research  = "predictive maintenance with Transformers (paper under review)"
     values    = ["tidy datasets", "honest evaluation", "clean code"]
 ```
@@ -63,9 +63,14 @@ class Fatemeh:
 ## `~/experience`
 
 ```text
-2026-08 ─ now      AI Software Engineering Intern · Generative-AI startup
+2026-05 ─ now      Freelance AI Software Engineer · Parscoders
+  │                AI products for clients and a Persian smart-search
+  │                plugin for WooCommerce (WordPress, PHP)
+  │
+2026-08 ─ 2026-11  AI Software Engineering Intern · Generative-AI startup
   │                owner of an AI-powered, multimodal data-labeling platform
   │                (ASR, OCR, vehicle attributes; human-in-the-loop)
+  │                and an LLM-based resume evaluation service
   │
 2025-03 ─ 2026-06  AI Researcher · Sharif Center for Information Systems and Data Science
   │                predictive maintenance: Transformers, contrastive learning, PINNs,
