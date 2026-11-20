@@ -91,7 +91,6 @@ education          B.Sc. Computer Engineering, Science and Research University, 
 ## `~/github`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ftharir&theme=github-dark&hide_border=true&border_radius=12&v=4" alt="GitHub streak" height="170">
   <img src="assets/languages.svg" alt="Languages by source code" height="170">
 </p>
 
